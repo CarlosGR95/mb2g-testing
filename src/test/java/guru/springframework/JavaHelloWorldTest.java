@@ -1,10 +1,10 @@
 package guru.springframework;
 
-import org.junit.Test;
+import org.testng.annotations.Test;
 
 public class JavaHelloWorldTest {
 
     @Test
-    public void getHello() {
+    public void testGetHello() {
     }
 }
