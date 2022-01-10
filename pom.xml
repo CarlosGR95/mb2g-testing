@@ -60,6 +60,9 @@
             <properties>
                 <TEST_HOST>uat.example.com</TEST_HOST>
             </properties>
+            <activation>
+                <activeByDefault>true</activeByDefault>
+            </activation>
         </profile>
     </profiles>
 </project>
